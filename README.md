@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mlourido
-- 👀 I’m interested in learnind how to code
-- 🌱 I’m currently learning Data Structures in C++
+- 👀 I’m interested in learnind how to code!
+- 🌱 So far, I'm fairly profficient with C++, and I’m currently learning Java.
 - 💞️ I’m looking to collaborate on anything challenging and fun. 
 
 
